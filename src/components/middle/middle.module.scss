@@ -1,0 +1,21 @@
+
+.myRole {
+  width: 50%;
+  padding: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+  gap: 20px;
+  background: pink;
+
+  .course {
+    color: blue;
+  }
+}
+.subject {
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  border: 3px solid blue;
+  background: lightblue;
+
+}
